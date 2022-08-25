@@ -145,7 +145,7 @@ body {
   width: 120px;
   height:120px;
   top:90px;
-  left:100px;
+  left:153px;
 }
 
 .si {
@@ -161,20 +161,39 @@ body {
   width: 120px;
   height:120px;
   top:90px;
-  left:250px;
+  left:278px;
 }
 
 
 p {
   font-family: 'Brush Script MT', ;
-  margin: 40px;
+  margin: opx;
+  top:500px;
   color: #333;
 }
 
 .name {
   position: absolute;
-  left:420px;
-  top:200px;
+  left:480px;
+  top:440px;
+  color: #333;
+}
+
+.letter {
+  font-family: 'Brush Script MT',  ;
+  margin: 20px;
+  position: absolute;
+  left:23px;
+  top:270px;
+  color: #333;
+}
+
+.letters {
+  font-family: 'Brush Script MT', ; 
+  margin: 20px;
+  position: absolute;
+  left:23px;
+  top:220px;
   color: #333;
 }
 
